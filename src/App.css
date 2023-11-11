@@ -1,0 +1,32 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    width: 100%;
+    color: black;
+    margin-top: -190px;
+}
+
+.boton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -225px;
+}
+
+.cat {
+    display: flex; 
+    justify-content: center;
+    margin-top: 1px;
+    margin: 10px;
+}
+
+.begin {
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+
+}
